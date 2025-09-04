@@ -1,1 +1,3 @@
-Security policy placeholder. Report issues to security@fluxframe.llc (placeholder).
+# SECURITY
+
+Placeholder security guidance. Add disclosure and contact instructions here.

@@ -1,7 +1,9 @@
 .PHONY: image sbom qemu
 image:
-\t@echo "build ISO placeholder"
+	echo "make image (placeholder)"
+
 sbom:
-\t@echo "generate SBOM placeholder"
+	echo "generate sbom (placeholder)"
+
 qemu:
-\t@echo "qemu test placeholder"
+	echo "qemu test (placeholder)"
